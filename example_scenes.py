@@ -12,9 +12,7 @@ import numpy as np
 class OpeningManimExample(Scene):
     def construct(self):
         intro_words = Text("""
-            The original motivation for manim was to
-            better illustrate mathematical functions
-            as transformations.
+            This is a trap
         """)
         intro_words.to_edge(UP)
 
