@@ -71,7 +71,7 @@ scene:
   default_wait_time: 1.0
 vmobject:
   default_stroke_width: 4.0
-  default_stroke_color: "#DDDDDD"     # Default is GREY_A
+  default_stroke_color: "#FFFFFF"     # Default is GREY_A
   default_fill_color: "#888888"       # Default is GREY_C
 mobject:
   default_mobject_color: "#FFFFFF"    # Default is WHITE
@@ -81,7 +81,7 @@ tex:
   template: "default"
 text:
   # font: "Cambria Math"
-  font: "Consolas"
+  font: "Latin Modern Roman"
   alignment: "LEFT"
 embed:
   exception_mode: "Verbose"
